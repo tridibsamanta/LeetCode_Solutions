@@ -4,4 +4,6 @@
 
 ***My solution to some problems listed on LeetCode***
 
+:heavy_check_mark: Filenames are of the format - *ProblemName_ID.extension* 
+
 ***Contributed with :yellow_heart: by Tridib***
